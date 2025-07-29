@@ -11,7 +11,10 @@
 
 <img src="./images/Picture1.jpg" alt="Zoom Login" width="600"/>
 <!-- <p style="text-align: center;"> -->
-<img src="./images/Picture4.png" alt="Zoom Login" width="500" />
+
+<br><br>
+<img src="./images/Picture2.png" alt="Zoom Login" width="500" />
+
 <!-- </p> -->
 <!-- ![App Creation Screenshot](./images/Picture2.jpg) -->
 
@@ -50,4 +53,4 @@ https://oauth.freshdev.io/auth/callback
 - The Zoom Authorization screen will appear. Click **Allow** to grant permissions.
 - Your OAuth integration will now be validated.
 
-<img src="./images/Picture6.png" alt="Zoom Login" width="600"/>
+<img src="./images/Picture7.png" alt="Zoom Login" width="600"/>
