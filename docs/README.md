@@ -1,4 +1,4 @@
-# <img src="./images/SandezaMarketplaceLogo.png" alt="GoTo Client Login" width="50" height="50"/> OAuth Setup Guide   <img src="./images/SandezaNewLogo 1 (1).png" alt="GoTo Client Login" width="100" height="40"/> 
+# OAuth Setup Guide   
 
 ## Step 1: Sign In to GoTo Developer Portal  
 - Navigate to [https://developer.logmeininc.com/clients](https://developer.logmeininc.com/clients).  
@@ -26,7 +26,7 @@ https://oauth.freshdev.io/auth/callback
 - The next screen displays your **Client ID** and **Client Secret**.  
 - Copy and securely save these credentials for future use.  <br>
 
-<img src="./images/image3.png" alt="GoTo Client Details" width="600"/>  
+<img src="./images/image3.png" alt="GoTo Client Details" width="500" height="500"/>  
 
 
 
@@ -42,13 +42,13 @@ https://oauth.freshdev.io/auth/callback
 3. The **GoTo Authorization** screen will appear. Click **Allow** to grant permissions.  
 4. Once authorized, the **App Installation** page will reappear.  
 
-<img src="./images/image4.png" alt="OAuth Authorization" width="600"/>  
+<img src="./images/image4.png" alt="OAuth Authorization" width="500" height="500"/>  
 
 5. Enter the following details:  
 - **Freshservice Domain Name**  
 - **Freshservice API Key**  
 6. Retrieve your **GoTo Account Name** from [https://admin.goto.com](https://admin.goto.com).  
-<img src="./images/image5.png" alt="Freshservice Credentials" width="600"/>  
+<img src="./images/image5.png" alt="Freshservice Credentials" width="500" height="500"/>  
 
 
 7. Enter your **GoTo Account Name** and the **CloudFront URL**.  
