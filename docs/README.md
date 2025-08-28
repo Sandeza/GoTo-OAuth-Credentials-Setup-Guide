@@ -1,56 +1,57 @@
-# Zoom OAuth Credentials Setup Guide
+# <img src="./images/SandezaMarketplaceLogo.png" alt="GoTo Client Login" width="50" height="50"/> OAuth Setup Guide   <img src="./images/SandezaNewLogo 1 (1).png" alt="GoTo Client Login" width="100" height="40"/> 
 
-## Step 1: Sign In to Zoom Marketplace
-- Go to [https://marketplace.zoom.us](https://marketplace.zoom.us)
-- Log in using your Zoom account credentials.
+## Step 1: Sign In to GoTo Developer Portal  
+- Navigate to [https://developer.logmeininc.com/clients](https://developer.logmeininc.com/clients).  
+- Log in using your **GoTo account credentials** (must have **Super Admin** access).  
 
-## Step 2: Create a New App
-1. Click on **Develop** (top-right menu) → select **Build App**.
-2. From the list of available app types, choose **General App**.
-3. Click **Create**.
+---
 
-<img src="./images/Picture1.jpg" alt="Zoom Login" width="600"/>
-<!-- <p style="text-align: center;"> -->
+## Step 2: Add a New Client  
+<img src="./images/image1.png" alt="GoTo Client Login" width="500" height="500"/>  
 
-<br><br>
-<img src="./images/Picture2.png" alt="Zoom Login" width="500" />
-
-<!-- </p> -->
-<!-- ![App Creation Screenshot](./images/Picture2.jpg) -->
-
-## Step 3: Configure App Management
-- When asked **"How would you like your app to be managed?"**, select:
-  - `Admin-managed`.
-
-## Step 4: Set Redirect URL
-- In the **OAuth Redirect URL**, enter:
+1. Click **Add Client** (top-right).  
+2. Fill in the **Client details**.  
+3. In the **Redirect URI**, enter:  
 https://oauth.freshdev.io/auth/callback
+4. Under the **Scopes** section, select the following:  
+- **GoToMeeting, GoToWebinar, or GoToTraining**  
+- **Admin Center**  
+- **GoTo Connect**  
 
-## Step 5: Add Scopes
-- Navigate to the **Scopes** section.
-- Under **Phone** and **Meeting**, click **Select All** to grant all necessary permissions.
-- Click **Done** to confirm your scope selections.
+<br><img src="./images/image2.png" alt="GoTo Client Creation"  width="500" height="500"/><br>  
 
-<img src="./images/Picture3.png" alt="Zoom Login" width="500"/>
+---
 
-## Step 6: Complete App Details
-- Continue through the remaining steps to finalize the app setup.
+## Step 3: Retrieve OAuth Credentials  
+- The next screen displays your **Client ID** and **Client Secret**.  
+- Copy and securely save these credentials for future use.  <br>
 
-## Step 7: Retrieve OAuth Credentials
-- Once your app is created, find the **Client ID** and **Client Secret** in the **App Credentials** section on the left panel.
+<img src="./images/image3.png" alt="GoTo Client Details" width="600"/>  
 
-<img src="./images/Picture5.png" alt="Zoom Login" width="600"/>
 
-## Step 8: Enter Credentials in Your Application
-- On the app installation page, input the retrieved:
-- **Client ID**
-- **Client Secret**
 
-<img src="./images/Picture6.png" alt="Zoom Login" width="600"/>
+---
 
-## Step 9: Authorize the App
-- Click **Continue**.
-- The Zoom Authorization screen will appear. Click **Allow** to grant permissions.
-- Your OAuth integration will now be validated.
+# App Installation  
 
-<img src="./images/Picture7.png" alt="Zoom Login" width="600"/>
+1. On the **App Installation** page, enter:  
+- **Client ID**  
+- **Client Secret**  
+
+2. Click **Continue**.  
+3. The **GoTo Authorization** screen will appear. Click **Allow** to grant permissions.  
+4. Once authorized, the **App Installation** page will reappear.  
+
+<img src="./images/image4.png" alt="OAuth Authorization" width="600"/>  
+
+5. Enter the following details:  
+- **Freshservice Domain Name**  
+- **Freshservice API Key**  
+6. Retrieve your **GoTo Account Name** from [https://admin.goto.com](https://admin.goto.com).  
+<img src="./images/image5.png" alt="Freshservice Credentials" width="600"/>  
+
+
+7. Enter your **GoTo Account Name** and the **CloudFront URL**.  
+8. Click Install
+
+✅ **Installation is now complete!**  
