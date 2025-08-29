@@ -43,13 +43,13 @@ https://oauth.freshdev.io/auth/callback
 3. The **GoTo Authorization** screen will appear. Click **Allow** to grant permissions.  
 4. Once authorized, the **App Installation** page will reappear.  
 
-<img src="./images/image4.png" alt="OAuth Authorization" width="500" height="500"/>  
+<img src="./images/image6.png" alt="OAuth Authorization" width="500" height="auto"/>  
 
 5. Enter the following details:  
 - **Freshservice Domain Name**  
 - **Freshservice API Key**  
 6. Retrieve your **GoTo Account Name** from [https://admin.goto.com](https://admin.goto.com).  
-<img src="./images/image6.png" alt="Freshservice Credentials" width="500" height="500"/>  
+<img src="./images/image5.png" alt="Freshservice Credentials" width="500" height="450"/>  
 
 
 7. Enter your **GoTo Account Name** and the **CloudFront URL**.  
