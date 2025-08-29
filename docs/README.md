@@ -1,4 +1,4 @@
-# OAuth Setup Guide   
+# GoTo OAuth Setup Guide   
 
 ## Step 1: Sign In to GoTo Developer Portal  
 - Navigate to [https://developer.logmeininc.com/clients](https://developer.logmeininc.com/clients).  
@@ -12,7 +12,7 @@
 3. In the **Redirect URI**, enter:  
 https://oauth.freshdev.io/auth/callback
 
-<img src="./images/image1.png" alt="GoTo Client Login" width="500" height="500"/>  <br>
+<img src="./images/image1.png" alt="GoTo Client Login" width="500" height="500" />  <br>
 
 4. Under the **Scopes** section, select the following:  
 - **GoToMeeting, GoToWebinar, or GoToTraining**  
@@ -49,7 +49,7 @@ https://oauth.freshdev.io/auth/callback
 - **Freshservice Domain Name**  
 - **Freshservice API Key**  
 6. Retrieve your **GoTo Account Name** from [https://admin.goto.com](https://admin.goto.com).  
-<img src="./images/image5.png" alt="Freshservice Credentials" width="500" height="500"/>  
+<img src="./images/image6.png" alt="Freshservice Credentials" width="500" height="500"/>  
 
 
 7. Enter your **GoTo Account Name** and the **CloudFront URL**.  
