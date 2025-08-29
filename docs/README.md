@@ -12,14 +12,14 @@
 3. In the **Redirect URI**, enter:  
 https://oauth.freshdev.io/auth/callback
 
-<img src="./images/image1.png" alt="GoTo Client Login" width="500" height="500" style="box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 8px;"  />  <br>
+<img src="./images/image1.png" alt="GoTo Client Login" width="500" height="500" style="box-shadow: 0 2px 4px rgba(0,0,0,0.3); border-radius: 8px;"  />  <br>
 
 4. Under the **Scopes** section, select the following:  
 - **GoToMeeting, GoToWebinar, or GoToTraining**  
 - **Admin Center**  
 - **GoTo Connect**  
 
-<br><img src="./images/image2.png" alt="GoTo Client Creation"  width="500" height="500" style="box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 8px;" /><br>  
+<br><img src="./images/image2.png" alt="GoTo Client Creation"  width="500" height="500" style="box-shadow: 0 2px 4px rgba(0,0,0,0.3); border-radius: 8px;" /><br>  
 
 ---
 
@@ -27,7 +27,7 @@ https://oauth.freshdev.io/auth/callback
 - The next screen displays your **Client ID** and **Client Secret**.  
 - Copy and securely save these credentials for future use.  <br>
 
-<img src="./images/image3.png" alt="GoTo Client Details" width="500" height="500" style="box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 8px;" />  
+<img src="./images/image3.png" alt="GoTo Client Details" width="500" height="500" style="box-shadow: 0 2px 4px rgba(0,0,0,0.3); border-radius: 8px;" />  
 
 
 
@@ -43,13 +43,13 @@ https://oauth.freshdev.io/auth/callback
 3. The **GoTo Authorization** screen will appear. Click **Allow** to grant permissions.  
 4. Once authorized, the **App Installation** page will reappear.  
 
-<img src="./images/image6.png" alt="OAuth Authorization" width="500" height="auto" style="box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 8px;" />  
+<img src="./images/image6.png" alt="OAuth Authorization" width="500" height="auto" style="box-shadow: 0 2px 4px rgba(0,0,0,0.3); border-radius: 8px;" />  
 
 5. Enter the following details:  
 - **Freshservice Domain Name**  
 - **Freshservice API Key**  
 6. Retrieve your **GoTo Account Name** from [https://admin.goto.com](https://admin.goto.com).  
-<img src="./images/image5.png" alt="Freshservice Credentials" width="500" height="450" style="box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 8px;" />  
+<img src="./images/image5.png" alt="Freshservice Credentials" width="500" height="450" style="box-shadow: 0 2px 4px rgba(0,0,0,0.3); border-radius: 8px;" />  
 
 
 7. Enter your **GoTo Account Name** and the **CloudFront URL**.  
