@@ -7,12 +7,13 @@
 ---
 
 ## Step 2: Add a New Client  
-<img src="./images/image1.png" alt="GoTo Client Login" width="500" height="500"/>  
-
 1. Click **Add Client** (top-right).  
 2. Fill in the **Client details**.  
 3. In the **Redirect URI**, enter:  
 https://oauth.freshdev.io/auth/callback
+
+<img src="./images/image1.png" alt="GoTo Client Login" width="500" height="500"/>  <br>
+
 4. Under the **Scopes** section, select the following:  
 - **GoToMeeting, GoToWebinar, or GoToTraining**  
 - **Admin Center**  
