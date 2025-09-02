@@ -43,7 +43,7 @@ https://oauth.freshdev.io/auth/callback
 3. The **GoTo Authorization** screen will appear. Click **Allow** to grant permissions.  
 4. Once authorized, the **App Installation** page will reappear.  
 
-<img src="./images/image6.png" alt="OAuth Authorization" width="600" style="box-shadow: 0 2px 4px rgba(0,0,0,0.3); border-radius: 8px;" />  
+<img src="./images/image7.png" alt="OAuth Authorization" width="600" style="box-shadow: 0 2px 4px rgba(0,0,0,0.3); border-radius: 8px;" />  
 
 5. Enter the following details:  
 - **Freshservice Domain Name**  
@@ -52,7 +52,7 @@ https://oauth.freshdev.io/auth/callback
 <img src="./images/image5.png" alt="Freshservice Credentials" width="600" style="box-shadow: 0 2px 4px rgba(0,0,0,0.3); border-radius: 8px;" />  
 
 
-7. Enter your **GoTo Account Name** and the **CloudFront URL**.  
+7. Enter your **GoTo Account Name** and the **Email Address**.  
 8. Click Install
 
 ✅ **Installation is now complete!**  
