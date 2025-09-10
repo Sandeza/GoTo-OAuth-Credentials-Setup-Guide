@@ -39,14 +39,8 @@ https://oauth.freshdev.io/auth/callback
 ## 🎥 Watch Setup Tutorial  
 
 <div style="text-align: center; margin-top: 20px;">
-  <iframe width="560" height="315"
-    src="https://youtu.be/61gjShOCwBk"
-    title="GoTo OAuth Setup Video"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-    style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-  </iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/61gjShOCwBk?si=je-16i-gZ1byX5F3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
 </div>
 
 
