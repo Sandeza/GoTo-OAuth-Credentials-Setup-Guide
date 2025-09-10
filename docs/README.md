@@ -35,6 +35,21 @@ https://oauth.freshdev.io/auth/callback
 
 # App Installation  
 
+
+## 🎥 Watch Setup Tutorial  
+
+<div style="text-align: center; margin-top: 20px;">
+  <iframe width="560" height="315"
+    src="https://youtu.be/61gjShOCwBk"
+    title="GoTo OAuth Setup Video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
+  </iframe>
+</div>
+
+
 1. On the **App Installation** page, enter:  
 - **Client ID**  
 - **Client Secret**  
