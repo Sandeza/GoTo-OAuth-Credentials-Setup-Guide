@@ -38,9 +38,18 @@ https://oauth.freshdev.io/auth/callback
 
 ## App Demo 
 
-<div style="text-align: center; margin-top: 20px;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ulx4J8OOSNg?si=Eb4hGLjEV-wHY_Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  
+<div style="max-width: 600px; margin: 20px auto; box-shadow: 0 2px 4px rgba(0,0,0,0.3); border-radius: 8px; overflow: hidden;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe 
+      src="https://www.youtube.com/embed/ulx4J8OOSNg?si=Eb4hGLjEV-wHY_Tg"
+      title="App Demo Video"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
 </div>
 
 
