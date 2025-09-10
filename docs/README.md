@@ -39,7 +39,7 @@ https://oauth.freshdev.io/auth/callback
 ## 🎥 Watch Setup Tutorial  
 
 <div style="text-align: center; margin-top: 20px;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/61gjShOCwBk?si=je-16i-gZ1byX5F3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="350" src="https://www.youtube.com/embed/ulx4J8OOSNg?si=Eb4hGLjEV-wHY_Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
 </div>
 
