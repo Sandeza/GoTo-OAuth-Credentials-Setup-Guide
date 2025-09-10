@@ -36,10 +36,10 @@ https://oauth.freshdev.io/auth/callback
 # App Installation  
 
 
-## 🎥 Watch Setup Tutorial  
+## App Demo 
 
 <div style="text-align: center; margin-top: 20px;">
-    <iframe width="500" height="400" src="https://www.youtube.com/embed/ulx4J8OOSNg?si=Eb4hGLjEV-wHY_Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ulx4J8OOSNg?si=Eb4hGLjEV-wHY_Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
 </div>
 
